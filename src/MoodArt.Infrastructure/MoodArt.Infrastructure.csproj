@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\MoodArt.Application\MoodArt.Application.csproj" />
+      <ProjectReference Include="..\MoodArt.Domain\MoodArt.Domain.csproj" />
+      <ProjectReference Include="..\MoodArt.Shared\MoodArt.Shared.csproj" />
+    </ItemGroup>
+
+</Project>

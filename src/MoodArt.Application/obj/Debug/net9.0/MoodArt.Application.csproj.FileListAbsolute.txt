@@ -1,0 +1,17 @@
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/bin/Debug/net9.0/MoodArt.Application.deps.json
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/bin/Debug/net9.0/MoodArt.Application.dll
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/bin/Debug/net9.0/MoodArt.Application.pdb
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/bin/Debug/net9.0/MoodArt.Domain.dll
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/bin/Debug/net9.0/MoodArt.Shared.dll
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/bin/Debug/net9.0/MoodArt.Domain.pdb
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/bin/Debug/net9.0/MoodArt.Shared.pdb
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/obj/Debug/net9.0/MoodArt.Application.csproj.AssemblyReference.cache
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/obj/Debug/net9.0/MoodArt.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/obj/Debug/net9.0/MoodArt.Application.AssemblyInfoInputs.cache
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/obj/Debug/net9.0/MoodArt.Application.AssemblyInfo.cs
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/obj/Debug/net9.0/MoodArt.Application.csproj.CoreCompileInputs.cache
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/obj/Debug/net9.0/MoodArt..099C3A65.Up2Date
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/obj/Debug/net9.0/MoodArt.Application.dll
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/obj/Debug/net9.0/refint/MoodArt.Application.dll
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/obj/Debug/net9.0/MoodArt.Application.pdb
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Application/obj/Debug/net9.0/ref/MoodArt.Application.dll

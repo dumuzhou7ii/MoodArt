@@ -1,0 +1,11 @@
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Shared/bin/Debug/net9.0/MoodArt.Shared.deps.json
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Shared/bin/Debug/net9.0/MoodArt.Shared.dll
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Shared/bin/Debug/net9.0/MoodArt.Shared.pdb
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Shared/obj/Debug/net9.0/MoodArt.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Shared/obj/Debug/net9.0/MoodArt.Shared.AssemblyInfoInputs.cache
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Shared/obj/Debug/net9.0/MoodArt.Shared.AssemblyInfo.cs
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Shared/obj/Debug/net9.0/MoodArt.Shared.csproj.CoreCompileInputs.cache
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Shared/obj/Debug/net9.0/MoodArt.Shared.dll
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Shared/obj/Debug/net9.0/refint/MoodArt.Shared.dll
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Shared/obj/Debug/net9.0/MoodArt.Shared.pdb
+/Users/a1-6/RiderProjects/MoodArt/MoodArt.Shared/obj/Debug/net9.0/ref/MoodArt.Shared.dll
